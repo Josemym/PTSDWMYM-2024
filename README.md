@@ -1,14 +1,9 @@
 #PRUEBA TÉCNICA DE SELECCIÓN 2023 PARA PROGRAMADOR WEB EN MYM
 
-#OPERACION CRUD CON PYTHON Y BASE DE DATOS
-El objetivo de la aplicación es realizar operaciones CRUD con una base de datos; dicha aplicación estará basado en repuestos de volvo y se debe tomar como referencia para la entidad(artículo) de la siguiente dirección: https://volvorepuestos.com.pe/.
-La tabla articulo debe tener los siguientes campos:
-- codigo: código de producto.
-- descripcion: descripción de producto.
-- precio: precio de producto.
-- urlimagen: url imagen de producto.
-- fecha: fecha creación/actualización de producto.
-En la vista se debe mostrar la lista de artículos considerando los botones necesarios para las operaciones CRUD. Esperamos ver tus avances graduales en ciclos cortos. Esta prueba támbien se considera que tantos pull requests realices por cada avance pequeño que realices(menos de 100 lines de código). Por lo que te proponemos:
+#CONCILIACIÓN PARA COBRAR DEUDAS DE CLIENTES
+De acuerdo a la descripción del caso(archivo adjunto .pptx); se debe desarrollar una aplicación web considerando sólo lo necesario para cumplir con el objetivo. La aplicación web debe interactuar con la base de datos; por lo tanto Ud. debe crear una base de datos con las tablas que crea necesario de acuerdo al caso presentado.
+
+Esperamos ver tus avances graduales en ciclos cortos. Esta prueba támbien se considera que tantos pull requests realices por cada avance pequeño que realices(menos de 100 lines de código). Por lo que te proponemos:
 
 1. Crea un fork de este README.MD
 2. Cubre tu código con pruebas(no es prioridad)
@@ -16,8 +11,7 @@ En la vista se debe mostrar la lista de artículos considerando los botones nece
 4. Usa GitHub (_issues_ y _pull requests_) como el medio de comunicación principal.
 
 ## Rúbrica
-El objetivo de esta prueba técnica es evaluar las habilidades para el trabajo colaborativo a
-distancia. Para eso usaremos los siguientes rubros:
+El objetivo de esta prueba técnica es evaluar las habilidades para el trabajo colaborativo a distancia. Para eso usaremos los siguientes rubros:
 
 - **Capacidad para el trabajo colaborativo a distancia**:
   - [ ] Uso de Git: Los mensajes son informativos del porqué, las consignaciones son pequeñas y los
@@ -36,9 +30,7 @@ distancia. Para eso usaremos los siguientes rubros:
   - [ ] Refactorización
 
 ## Sugerencias
-
 - Estudia estas referencias:
-    - [Guía de estilo de Ciencia de Datos en GECI](https://islas.dev/guia_de_estilo/)
     - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
     - [The pull request author’s guide to getting through code review](https://google.github.io/eng-practices/review/developer/)
 - Crea _pull requests_ pequeños; un _pull request_ de 100 líneas es demasiado grande.
@@ -49,8 +41,7 @@ distancia. Para eso usaremos los siguientes rubros:
 1. Debes usar como lenguaje de programación Python. 
 2. Debes usar como framework Django.
 3. Puedes usar cualquier libería adicional para cumplir con el objetivo de la aplicación.
-4. Para transformar los datos puedes usar la librería pandas o cualquier otro a su criterio.
-5. Puedes usar cualquier motor de base de datos(mysql,sql,postgreSQL,db2,oracle, etc).
+4. Puedes usar cualquier motor de base de datos(mysql,sql,postgreSQL,db2,oracle, etc).
 
 ## REGLAS
 El desarrollo de la aplicación se realizará respetando el patrón de diseño modelo–vista–controlador.
@@ -60,11 +51,8 @@ El repositorio se pondrá en público y se compartirá el enlace por correo a: j
 
 ## RESULTADOS FINALES
 En el repositorio se espera lo siguiente:
-- ASSETS.
 - CARPETA/DIRECTORIO DE LA APLICACIÓN.
-- QUERY.SQL (queries usado a nivel de base de datos).
-- ARTICULOS.csv (DATAFRAME DE ARTICULOS EN FORMATO CSV).
-- ARTICULOS.json (DATAFRAME DE ARTICULOS EN FORMATO JSON).
+- QUERY.SQL (queries usado en base de datos).
 
 
 ## REFERENCIAS
@@ -73,8 +61,3 @@ En el repositorio se espera lo siguiente:
 - [Revisiones en GitHub](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
 - [The pull request author’s guide to getting through code review](https://google.github.io/eng-practices/review/developer/)
 - [_Forkeado_ de un repositorio](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
-
-
-
-
-
