@@ -38,8 +38,8 @@ El objetivo de esta prueba técnica es evaluar las habilidades para el trabajo c
 - Comunícate mucho y hazlo mediante GitHub.
 
 ## HERRAMIENTAS
-1. Debes usar como lenguaje de programación Python. 
-2. Debes usar como framework Django.
+1. Debes usar como lenguaje de programación PHP. 
+2. Se sugiere usar como framework LARAVEL.
 3. Puedes usar cualquier libería adicional para cumplir con el objetivo de la aplicación.
 4. Puedes usar cualquier motor de base de datos(mysql,sql,postgreSQL,db2,oracle, etc).
 
@@ -56,7 +56,7 @@ En el repositorio se espera lo siguiente:
 
 
 ## REFERENCIAS
-- [Django documentation](https://docs.djangoproject.com/en/4.2/)
+- [Laravel]([https://laravel.com/docs/10.x)
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 - [Revisiones en GitHub](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
 - [The pull request author’s guide to getting through code review](https://google.github.io/eng-practices/review/developer/)
