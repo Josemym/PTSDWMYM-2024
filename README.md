@@ -1,4 +1,4 @@
-#PRUEBA TÉCNICA DE SELECCIÓN 2023 PARA PROGRAMADOR WEB EN MYM
+#PRUEBA TÉCNICA DE SELECCIÓN 2024 PARA PROGRAMADOR WEB EN MYM
 
 #CONCILIACIÓN PARA COBRAR DEUDAS DE CLIENTES
 De acuerdo a la descripción del caso(archivo adjunto .pptx); se debe desarrollar una aplicación web considerando sólo lo necesario para cumplir con el objetivo. La aplicación web debe interactuar con la base de datos; por lo tanto Ud. debe crear una base de datos con las tablas que crea necesario de acuerdo al caso presentado.
@@ -40,7 +40,7 @@ El objetivo de esta prueba técnica es evaluar las habilidades para el trabajo c
 ## HERRAMIENTAS
 1. Debes usar como lenguaje de programación PHP. 
 2. Se sugiere usar como framework LARAVEL.
-3. Puedes usar cualquier libería adicional para cumplir con el objetivo de la aplicación.
+3. Puedes usar cualquier otra libería adicional para cumplir con el objetivo de la prueba.
 4. Puedes usar cualquier motor de base de datos(mysql,sql,postgreSQL,db2,oracle, etc).
 
 ## REGLAS
