@@ -15,12 +15,13 @@ return new class extends Migration
             $table->id();
             $table->unsignedInteger('invoice_id');
             $table->string('description');
-            $table->timestamp('date_of_issue');
+            $table->timestamp('due_date');
             $table->decimal('debt_ammount', 10, 2);
             $table->decimal('ammount_paid', 10, 2);
             $table->decimal('balance', 10, 2);
             $table->char('active');
-            $table->char('status');
+            $table->char('payment_status');
+            $table->char('debt_status');
             $table->unsignedInteger('payment_number');
             $table->timestamps();
         });

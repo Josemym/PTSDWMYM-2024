@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('address_of_issuer');
             $table->string('phone_of_issuer');
             $table->unsignedInteger('client_id');
-            $table->unsignedInteger('invoice_number');
+            $table->string('invoice_number');
             $table->timestamp('date_of_issue');
             $table->decimal('ammount', 10, 2);
             $table->timestamps();
